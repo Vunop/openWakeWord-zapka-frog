@@ -2,6 +2,7 @@
   "type": "micro",
   "wake_word": "Zabka",
   "author": "Thomas Krüger",
+  "website": "https://github.com/Vunop"
   "model": "./zabka.tflite",
   "version": 2,
   "micro": {
